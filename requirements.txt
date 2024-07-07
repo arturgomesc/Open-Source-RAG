@@ -1,0 +1,10 @@
+langchain==0.2.6
+langchain_community==0.2.6
+langchain_core==0.2.11
+langchain_huggingface==0.0.3
+python-dotenv==1.0.1
+pypdf==4.2.0
+streamlit==1.36.0
+fastapi==0.111.0
+faiss-cpu==1.8.0.post1
+docker==7.1.0
